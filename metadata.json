@@ -1,0 +1,6 @@
+{
+  "name": "Decentralized AI Infrastructure Simulator",
+  "description": "Analyze your AI computing workloads to determine and estimate the real physical, economic, and environmental operational costs of deploying private server infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
